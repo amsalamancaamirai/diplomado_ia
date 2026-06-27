@@ -1,0 +1,121 @@
+id_campana,nombre_campana,tipo,objetivo,fecha_inicio,fecha_fin,estado,clientes_contactados,conversiones,costo_total,ingreso_generado
+CAMP001,Campaña Llamada Rete-Jan2022,WhatsApp,Cross-sell,2021-12-30,2022-01-20,Finalizada,4323,320,18300000.0,1120000000
+CAMP002,Campaña Push Notificación Rete-Jan2022,Email,Cross-sell,2022-01-13,2022-02-12,Finalizada,1511,139,5040000.0,361400000
+CAMP003,Campaña WhatsApp Adqu-Jan2022,WhatsApp,Retención,2022-02-02,2022-02-16,Finalizada,4650,560,28130000.0,2408000000
+CAMP004,Campaña SMS Adqu-Feb2022,WhatsApp,Reactivación,2022-02-15,2022-02-22,Finalizada,4238,507,6510000.0,2281500000
+CAMP005,Campaña Llamada Cros-Mar2022,Email,Retención,2022-03-02,2022-03-16,Finalizada,2062,212,4520000.0,742000000
+CAMP006,Campaña Push Notificación Rete-Mar2022,Llamada,Cross-sell,2022-03-16,2022-04-06,Finalizada,2204,159,16469999.999999998,174900000
+CAMP007,Campaña WhatsApp Reac-Apr2022,WhatsApp,Cross-sell,2022-03-29,2022-04-28,Finalizada,3815,485,16469999.999999998,1406500000
+CAMP008,Campaña Email Cros-Apr2022,Email,Cross-sell,2022-04-14,2022-04-21,Finalizada,2925,450,7740000.0,540000000
+CAMP009,Campaña SMS Rete-May2022,WhatsApp,Retención,2022-04-30,2022-05-14,Finalizada,2383,106,15860000.0,328600000
+CAMP010,Campaña WhatsApp Reac-May2022,WhatsApp,Retención,2022-05-13,2022-05-27,Finalizada,353,26,2480000.0,132600000
+CAMP011,Campaña Push Notificación Reac-May2022,Email,Adquisición,2022-05-29,2022-06-19,En ejecución,1015,128,2920000.0,537600000
+CAMP012,Campaña Push Notificación Adqu-Jun2022,WhatsApp,Reactivación,2022-06-17,2022-06-24,Finalizada,1319,185,8100000.0,444000000
+CAMP013,Campaña Push Notificación Adqu-Jun2022,WhatsApp,Retención,2022-07-03,2022-07-24,Finalizada,3468,502,19070000.0,1255000000
+CAMP014,Campaña Push Notificación Reac-Jul2022,WhatsApp,Reactivación,2022-07-18,2022-08-01,Planificada,2355,293,14940000.0,380900000
+CAMP015,Campaña Push Notificación Reac-Jul2022,WhatsApp,Adquisición,2022-07-27,2022-08-17,Finalizada,1409,136,9330000.0,367200000
+CAMP016,Campaña SMS Adqu-Aug2022,WhatsApp,Adquisición,2022-08-15,2022-08-29,Finalizada,653,80,,200000000
+CAMP017,Campaña Llamada Adqu-Aug2022,Email,Reactivación,2022-08-28,2022-09-11,Planificada,1306,54,10080000.0,86400000
+CAMP018,Campaña Llamada Adqu-Sep2022,Email,Cross-sell,2022-09-13,2022-10-13,Finalizada,2996,159,21320000.0,286200000
+CAMP019,Campaña Email Adqu-Sep2022,Llamada,Adquisición,2022-09-29,2022-10-13,Finalizada,4744,798,14180000.0,1356600000
+CAMP020,Campaña Llamada Rete-Oct2022,WhatsApp,Cross-sell,2022-10-10,2022-10-24,Finalizada,4616,773,34330000.0,4869900000
+CAMP021,Campaña Push Notificación Adqu-Oct2022,Llamada,Retención,2022-10-28,2022-11-18,Finalizada,4573,621,17550000.0,1738800000
+CAMP022,Campaña Llamada Cros-Nov2022,WhatsApp,Adquisición,2022-11-15,2022-12-06,Finalizada,2859,206,17790000.0,741600000
+CAMP023,Campaña Llamada Cros-Nov2022,Push Notificación,Adquisición,2022-11-25,2022-12-09,Finalizada,1237,153,8670000.0,596700000
+CAMP024,Campaña Push Notificación Cros-Dec2022,WhatsApp,Cross-sell,2022-12-12,2022-12-26,Finalizada,3533,459,15320000.0,2340900000
+CAMP025,Campaña SMS Adqu-Dec2022,Llamada,Retención,2022-12-24,2023-01-07,Finalizada,613,62,1120000.0,310000000
+CAMP026,Campaña Push Notificación Reac-Jan2023,Email,Adquisición,2023-01-08,2023-01-15,Finalizada,2741,383,21030000.0,1493700000
+CAMP027,Campaña Llamada Reac-Jan2023,WhatsApp,Cross-sell,2023-01-29,2023-02-12,Finalizada,4342,107,8560000.0,160500000
+CAMP028,Campaña Llamada Rete-Feb2023,Llamada,Reactivación,2023-02-07,2023-03-09,Planificada,2139,130,8050000.000000001,507000000
+CAMP029,Campaña Email Adqu-Feb2023,Email,Adquisición,2023-02-26,2023-03-28,En ejecución,855,125,4600000.0,287500000
+CAMP030,Campaña Push Notificación Cros-Mar2023,Email,Cross-sell,2023-03-14,2023-03-21,En ejecución,4244,722,9610000.0,1155200000
+CAMP031,Campaña Email Reac-Mar2023,Push Notificación,Reactivación,2023-03-26,2023-04-02,Finalizada,2679,429,18610000.0,986700000
+CAMP032,Campaña Email Adqu-Apr2023,SMS,Cross-sell,2023-04-14,2023-04-21,Finalizada,4061,546,11460000.0,1528800000
+CAMP033,Campaña WhatsApp Cros-Apr2023,Llamada,Adquisición,2023-04-24,2023-05-08,Finalizada,1547,71,12240000.0,71000000
+CAMP034,Campaña Email Cros-May2023,SMS,Cross-sell,2023-05-12,2023-06-11,Finalizada,1516,119,11300000.0,368900000
+CAMP035,Campaña Llamada Cros-May2023,Email,Adquisición,2023-05-27,2023-06-10,Finalizada,3806,106,20670000.0,445200000
+CAMP036,Campaña Llamada Cros-Jun2023,Llamada,Reactivación,2023-06-08,2023-06-15,Planificada,4038,494,23380000.0,1383200000
+CAMP037,Campaña WhatsApp Cros-Jun2023,WhatsApp,Reactivación,2023-06-28,2023-07-12,En ejecución,4258,391,21160000.0,664700000
+CAMP038,Campaña WhatsApp Rete-Jul2023,WhatsApp,Adquisición,2023-07-08,2023-07-15,Finalizada,515,57,2080000.0,193800000
+CAMP039,Campaña Push Notificación Cros-Jul2023,SMS,Retención,2023-07-28,2023-08-11,En ejecución,420,74,1590000.0,192400000
+CAMP040,Campaña WhatsApp Rete-Aug2023,Email,Adquisición,2023-08-06,2023-08-27,Finalizada,2461,207,17950000.0,1117800000
+CAMP041,Campaña SMS Cros-Aug2023,Llamada,Reactivación,2023-08-21,2023-09-04,Finalizada,1044,72,5480000.0,79200000
+CAMP042,Campaña Llamada Cros-Sep2023,WhatsApp,Cross-sell,2023-09-07,2023-09-14,Finalizada,1714,75,11740000.0,75000000
+CAMP043,Campaña Llamada Cros-Sep2023,WhatsApp,Reactivación,2023-09-26,2023-10-10,Finalizada,1308,56,6330000.0,145600000
+CAMP044,Campaña WhatsApp Cros-Oct2023,Push Notificación,Adquisición,2023-10-10,2023-10-31,En ejecución,1930,198,,435600000
+CAMP045,Campaña WhatsApp Rete-Oct2023,SMS,Cross-sell,2023-10-22,2023-10-29,Finalizada,3385,473,7100000.0,1419000000
+CAMP046,Campaña Llamada Adqu-Nov2023,Email,Reactivación,2023-11-07,2023-11-14,Finalizada,1438,158,5180000.0,505600000
+CAMP047,Campaña WhatsApp Reac-Nov2023,Llamada,Adquisición,2023-11-22,2023-12-06,Finalizada,3124,498,22560000.0,2440200000
+CAMP048,Campaña Push Notificación Rete-Dec2023,WhatsApp,Adquisición,2023-12-09,2023-12-23,Finalizada,1390,98,8520000.0,235200000
+CAMP049,Campaña WhatsApp Rete-Dec2023,Email,Reactivación,2023-12-21,2024-01-04,Planificada,4582,527,30280000.0,1686400000
+CAMP050,Campaña WhatsApp Rete-Jan2024,SMS,Cross-sell,2024-01-07,2024-01-14,Planificada,3766,473,24580000.0,756800000
+CAMP051,Campaña Push Notificación Adqu-Jan2024,Email,Reactivación,2024-01-20,2024-02-03,Planificada,2631,170,6000000.0,1224000000
+CAMP052,Campaña Push Notificación Reac-Feb2024,Email,Adquisición,2024-02-07,2024-02-21,Finalizada,3094,258,7840000.0,1083600000
+CAMP053,Campaña Push Notificación Adqu-Feb2024,Email,Reactivación,2024-02-20,2024-02-27,Finalizada,1656,189,5900000.0,718200000
+CAMP054,Campaña Llamada Reac-Mar2024,WhatsApp,Adquisición,2024-03-05,2024-03-26,Planificada,1309,30,4520000.0,57000000
+CAMP055,Campaña WhatsApp Reac-Mar2024,Email,Adquisición,2024-03-20,2024-04-10,Planificada,2130,344,4110000.0000000005,1582400000
+CAMP056,Campaña Push Notificación Reac-Apr2024,Llamada,Retención,2024-04-05,2024-04-19,Finalizada,3316,125,,500000000
+CAMP057,Campaña Push Notificación Adqu-Apr2024,WhatsApp,Adquisición,2024-04-17,2024-05-01,En ejecución,822,22,5810000.0,77000000
+CAMP058,Campaña Llamada Reac-May2024,WhatsApp,Adquisición,2024-05-08,2024-05-29,Finalizada,2537,138,13520000.0,358800000
+CAMP059,Campaña SMS Cros-May2024,Email,Retención,2024-05-19,2024-06-18,Planificada,2130,213,7930000.0,383400000
+CAMP060,Campaña WhatsApp Rete-Jun2024,WhatsApp,Adquisición,2024-06-03,2024-06-24,Finalizada,2944,213,14490000.0,553800000
+CAMP061,Campaña SMS Reac-Jun2024,WhatsApp,Reactivación,2024-06-21,2024-07-05,En ejecución,1458,131,4660000.0,262000000
+CAMP062,Campaña SMS Rete-Jul2024,WhatsApp,Cross-sell,2024-07-03,2024-07-24,Finalizada,4701,157,24890000.0,486700000
+CAMP063,Campaña Push Notificación Adqu-Jul2024,Email,Adquisición,2024-07-20,2024-08-03,Finalizada,2168,124,4300000.0,210800000
+CAMP064,Campaña Llamada Adqu-Aug2024,Email,Cross-sell,2024-08-06,2024-08-20,Finalizada,3495,124,25750000.0,248000000
+CAMP065,Campaña WhatsApp Cros-Aug2024,WhatsApp,Cross-sell,2024-08-20,2024-09-03,Finalizada,2223,126,6810000.0,151200000
+CAMP066,Campaña WhatsApp Reac-Sep2024,Llamada,Reactivación,2024-09-05,2024-09-19,Finalizada,1076,142,7340000.0,468600000
+CAMP067,Campaña WhatsApp Rete-Sep2024,Email,Adquisición,2024-09-20,2024-09-27,Finalizada,2444,273,14150000.0,873600000
+CAMP068,Campaña SMS Rete-Oct2024,WhatsApp,Retención,2024-10-05,2024-10-12,Finalizada,2726,200,13360000.0,440000000
+CAMP069,Campaña Email Rete-Oct2024,WhatsApp,Cross-sell,2024-10-18,2024-10-25,Finalizada,3789,234,28580000.0,234000000
+CAMP070,Campaña Llamada Adqu-Nov2024,Push Notificación,Reactivación,2024-11-01,2024-12-01,Finalizada,4603,826,11600000.0,1156400000
+CAMP071,Campaña Email Reac-Nov2024,SMS,Retención,2024-11-13,2024-11-20,Finalizada,544,77,1240000.0,215600000
+CAMP072,Campaña SMS Cros-Dec2024,Push Notificación,Reactivación,2024-11-30,2024-12-14,Finalizada,3872,586,13910000.0,2344000000
+CAMP073,Campaña Push Notificación Cros-Dec2024,SMS,Reactivación,2024-12-18,2025-01-17,Finalizada,3268,79,22540000.0,142200000
+CAMP074,Campaña Email Adqu-Dec2024,Llamada,Retención,2025-01-01,2025-01-22,Planificada,2113,62,3650000.0,266600000
+CAMP075,Campaña Email Reac-Jan2025,SMS,Reactivación,2025-01-17,2025-01-31,En ejecución,2645,354,8080000.0,1840800000
+CAMP076,Campaña Llamada Cros-Jan2025,Llamada,Cross-sell,2025-02-01,2025-02-22,En ejecución,984,49,4190000.0000000005,156800000
+CAMP077,Campaña SMS Cros-Feb2025,WhatsApp,Adquisición,2025-02-11,2025-02-25,Finalizada,1687,148,10350000.0,606800000
+CAMP078,Campaña Llamada Adqu-Mar2025,WhatsApp,Cross-sell,2025-02-27,2025-03-06,Finalizada,4048,200,13950000.0,340000000
+CAMP079,Campaña Push Notificación Rete-Mar2025,Llamada,Reactivación,2025-03-16,2025-04-15,Planificada,649,31,,40300000
+CAMP080,Campaña WhatsApp Cros-Mar2025,SMS,Adquisición,2025-04-03,2025-04-10,Finalizada,1627,60,6000000.0,336000000
+CAMP081,Campaña SMS Adqu-Apr2025,Email,Adquisición,2025-04-13,2025-05-13,En ejecución,2795,321,5870000.0,577800000
+CAMP082,Campaña Push Notificación Cros-Apr2025,Email,Reactivación,2025-05-02,2025-05-09,Finalizada,2476,342,15600000.0,1436400000
+CAMP083,Campaña Push Notificación Cros-May2025,SMS,Cross-sell,2025-05-13,2025-06-03,Finalizada,443,12,1990000.0,38400000
+CAMP084,Campaña Email Adqu-May2025,Llamada,Cross-sell,2025-05-29,2025-06-12,Finalizada,2312,148,15680000.0,799200000
+CAMP085,Campaña Llamada Adqu-Jun2025,SMS,Retención,2025-06-14,2025-07-14,Planificada,3508,439,21100000.0,1624300000
+CAMP086,Campaña Email Reac-Jun2025,Push Notificación,Reactivación,2025-06-26,2025-07-10,Finalizada,1145,94,2150000.0,159800000
+CAMP087,Campaña Email Cros-Jul2025,WhatsApp,Cross-sell,2025-07-12,2025-08-11,Finalizada,1226,162,5820000.0,372600000
+CAMP088,Campaña WhatsApp Rete-Jul2025,Email,Adquisición,2025-07-30,2025-08-13,En ejecución,1723,243,13680000.0,850500000
+CAMP089,Campaña Llamada Rete-Aug2025,WhatsApp,Reactivación,2025-08-15,2025-09-05,Finalizada,3308,83,11580000.0,174300000
+CAMP090,Campaña WhatsApp Reac-Aug2025,SMS,Adquisición,2025-08-30,2025-09-20,Finalizada,3892,315,18310000.0,1291500000
+CAMP091,Campaña Push Notificación Reac-Sep2025,Email,Retención,2025-09-12,2025-09-19,Finalizada,3249,444,18640000.0,1243200000
+CAMP092,Campaña WhatsApp Adqu-Sep2025,Email,Reactivación,2025-09-26,2025-10-17,Finalizada,3521,283,9910000.0,1160300000
+CAMP093,Campaña Push Notificación Rete-Oct2025,Email,Adquisición,2025-10-10,2025-10-24,En ejecución,3506,73,21270000.0,306600000
+CAMP094,Campaña Email Cros-Oct2025,WhatsApp,Reactivación,2025-10-29,2025-11-12,Planificada,4438,327,25690000.0,981000000
+CAMP095,Campaña WhatsApp Adqu-Nov2025,WhatsApp,Reactivación,2025-11-08,2025-11-29,Finalizada,260,41,1020000.0,102500000
+CAMP096,Campaña Llamada Cros-Nov2025,SMS,Cross-sell,2025-11-24,2025-12-24,Finalizada,4374,753,14650000.0,1656600000
+CAMP097,Campaña WhatsApp Rete-Dec2025,Llamada,Reactivación,2025-12-11,2026-01-01,Finalizada,3598,394,26890000.0,669800000
+CAMP098,Campaña Push Notificación Adqu-Dec2025,SMS,Reactivación,2025-12-28,2026-01-11,Finalizada,2614,180,6080000.0,954000000
+CAMP099,Campaña SMS Cros-Jan2026,WhatsApp,Retención,2026-01-07,2026-01-21,Finalizada,3978,376,17140000.0,1052800000
+CAMP100,Campaña Llamada Reac-Jan2026,Llamada,Retención,2026-01-24,2026-02-23,Finalizada,3806,219,24680000.0,525600000
+CAMP101,Campaña Push Notificación Cros-Feb2026,WhatsApp,Adquisición,2026-02-11,2026-03-13,Finalizada,589,27,1450000.0,64800000
+CAMP102,Campaña SMS Cros-Feb2026,WhatsApp,Cross-sell,2026-02-26,2026-03-19,Finalizada,4816,476,,1237600000
+CAMP103,Campaña Llamada Adqu-Mar2026,WhatsApp,Reactivación,2026-03-12,2026-03-26,Planificada,1875,258,9230000.0,567600000
+CAMP104,Campaña SMS Rete-Mar2026,Llamada,Cross-sell,2026-03-26,2026-04-09,En ejecución,1977,109,9450000.0,228900000
+CAMP105,Campaña Email Cros-Apr2026,WhatsApp,Cross-sell,2026-04-11,2026-04-18,Finalizada,452,74,1920000.0,118400000
+CAMP106,Campaña Email Cros-Apr2026,Email,Adquisición,2026-04-23,2026-05-23,Finalizada,3366,157,24030000.0,423900000
+CAMP107,Campaña WhatsApp Cros-May2026,Email,Retención,2026-05-09,2026-06-08,Finalizada,1914,209,,940500000
+CAMP108,Campaña WhatsApp Cros-May2026,Email,Reactivación,2026-05-27,2026-06-17,En ejecución,2250,324,8930000.0,648000000
+CAMP109,Campaña WhatsApp Reac-Jun2026,Email,Cross-sell,2026-06-08,2026-07-08,Planificada,895,48,4500000.0,158400000
+CAMP110,Campaña WhatsApp Rete-Jun2026,WhatsApp,Cross-sell,2026-06-23,2026-07-07,En ejecución,2293,154,8140000.000000001,523600000
+CAMP111,Campaña SMS Rete-Jul2026,WhatsApp,Adquisición,2026-07-09,2026-07-30,Finalizada,4948,139,19260000.0,430900000
+CAMP112,Campaña Llamada Adqu-Jul2026,Email,Adquisición,2026-07-25,2026-08-08,Finalizada,2772,474,4670000.0,2701800000
+CAMP113,Campaña Llamada Cros-Aug2026,WhatsApp,Adquisición,2026-08-08,2026-08-22,Planificada,1705,166,11270000.0,564400000
+CAMP114,Campaña WhatsApp Adqu-Aug2026,Push Notificación,Cross-sell,2026-08-22,2026-09-12,En ejecución,3868,117,30170000.0,315900000
+CAMP115,Campaña Email Reac-Sep2026,Email,Cross-sell,2026-09-06,2026-09-20,En ejecución,4713,720,30640000.0,2232000000
+CAMP116,Campaña Push Notificación Reac-Sep2026,WhatsApp,Adquisición,2026-09-20,2026-10-11,Finalizada,2943,326,14330000.0,1238800000
+CAMP117,Campaña WhatsApp Cros-Oct2026,WhatsApp,Adquisición,2026-10-04,2026-10-25,Finalizada,4854,140,33390000.0,756000000
+CAMP118,Campaña WhatsApp Adqu-Oct2026,Llamada,Reactivación,2026-10-23,2026-11-22,Finalizada,3477,320,24600000.0,768000000
+CAMP119,Campaña Email Adqu-Nov2026,Llamada,Cross-sell,2026-11-07,2026-11-28,Planificada,1498,134,7550000.0,388600000
+CAMP120,Campaña Push Notificación Rete-Nov2026,WhatsApp,Cross-sell,2026-11-23,2026-12-07,Planificada,4890,212,37120000.0,1929200000
